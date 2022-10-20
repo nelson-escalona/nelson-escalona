@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Computer Engineering student from Puerto Rico.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.webp">
 
-- 🔭 I’m currently working on [Intro to Android Develop. @ CodePath](https://github.com/nelson-escalona/Flashcard_App)
+- 🔭 I’m currently working on [Intro to Android Development @ CodePath](https://github.com/nelson-escalona/Flashcard_App)
 
 - 👯 I’m looking to collaborate on **Any project that could expand my computer engineering knowledge :)**
 
