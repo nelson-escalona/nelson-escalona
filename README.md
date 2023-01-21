@@ -3,15 +3,15 @@
 <h3 align="center">A passionate Computer Engineering student from Puerto Rico.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.webp">
 
-- 🔭 I’m currently working on [Intro to Android Development @ CodePath](https://github.com/nelson-escalona/Flashcard_App)
+- 🔭 I’m currently working on **Bringing CodePath's courses to more students in Puerto Rico.**
 
 - 👯 I’m looking to collaborate on **Any project that could expand my computer engineering knowledge :)**
 
-- 💬 Ask me about **my course @ CodePath!!**
+- 💬 Ask me about **My Tech Fellowship @ CodePath!!**
 
 - 📫 How to reach me **nelsonsescalona@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zZpRFhWNF5Mn5kRQzZnvSdz7XKDpuDgU/view?usp=sharing](https://drive.google.com/file/d/1zZpRFhWNF5Mn5kRQzZnvSdz7XKDpuDgU/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cD_d5XMJ-JnzsUAbvwoi_Gmlth7eEqAv/view?usp=sharing](https://drive.google.com/file/d/1cD_d5XMJ-JnzsUAbvwoi_Gmlth7eEqAv/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a big fan of Broadway shows :)**
 
