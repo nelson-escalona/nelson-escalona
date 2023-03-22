@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nelsonsescalona@gmail.com**
 
-- 📄 [Know about my experiences](https://docs.google.com/document/d/13k1_IzmBcBieWqQ1kb6yqhrRpIZ0LpHqXjIDgzMEvXw/edit?usp=sharing)
+- 📄 [Know about my experiences!](https://docs.google.com/document/d/13k1_IzmBcBieWqQ1kb6yqhrRpIZ0LpHqXjIDgzMEvXw/edit?usp=sharing)
 
 - ⚡ Fun fact **I'm a big fan of Broadway shows :)**
 
