@@ -1,17 +1,17 @@
 ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)
 <h1 align="center">Hi 👋, I'm Nelson S. Escalona Ortiz</h1>
-<h3 align="center">A passionate Computer Engineering student from Puerto Rico.</h3>
+<h3 align="center">A passionate Software Engineering student from Puerto Rico.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.webp">
 
-- 🔭 I’m currently working on **Bringing CodePath's courses to more students in Puerto Rico.**
+- 🔭 I’m currently working on **Creating behavior trees using the Pytrees library for the Roboboat 2025 Competition**
 
-- 👯 I’m looking to collaborate on **Any project that could expand my computer engineering knowledge :)**
+- 👯 I’m looking to collaborate on **Any project that could expand my software engineering knowledge :)**
 
-- 💬 Ask me about **My Tech Fellowship @ CodePath!!**
+- 💬 Ask me about **My SWE internship @ Dell Technologies!**
 
 - 📫 How to reach me **nelsonsescalona@gmail.com**
 
-- 📄 [Know about my experiences!](https://docs.google.com/document/d/13k1_IzmBcBieWqQ1kb6yqhrRpIZ0LpHqXjIDgzMEvXw/edit?usp=sharing)
+- 📄 [Know about my experiences!](https://drive.google.com/file/d/1hXEgsl-w9d9GDOgu_ZwwKJKXMjzdaglA/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a big fan of Broadway shows :)**
 
